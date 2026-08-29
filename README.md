@@ -1,16 +1,19 @@
-# hello-world-c
-My first C program created as part of activity 2.
+# Hello World C Program
 
-## How to compile and run
-```bash
-gcc hello.c -o hello
-.\hello
+This is my first C program created as part of my engineering assignment.
 
-Student Name
+## Description
+
+This program prints "Hello, World!" on the screen.
+
+## How to Run
+
+Compile the program using a C compiler and run the generated executable.
+
+## Output
+
+Hello, World!
+
+## Author
+
 Madhuri N
-
-save it with:
-**ctrl+s**
-###then open VS code Terminal and run:
-```bash
-git add README.md
