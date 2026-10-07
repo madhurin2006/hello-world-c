@@ -22,7 +22,7 @@ Hello, World!
 Madhuri N
 ## Collaboration Log
 
-- **Pairing Partner:** Partner Name
-- **GitHub Username:** partner_username
+- **Pairing Partner:** PS Varshitha
+- **GitHub Username:** PSVarshitha
 - **What we built:** Added a `greet()` function to the Hello World program.
 - **What I learned:** Learned how to collaborate in real time using VS Code Live Share and track changes using GitLens.
